@@ -8,9 +8,11 @@ Sau nhiều lần tìm kiếm và thử nghiệm các phương pháp Blur ảnh 
 <br/>
 Tôi đã tìm kiếm được giải pháp tối ưu nhất ( nhanh và hiệu quả)
 <br/>
-Tham khảo: <a href="https://developer.android.com/guide/topics/renderscript/migrate">https://developer.android.com/guide/topics/renderscript/migrate</a>
+Tham khảo: https://developer.android.com/guide/topics/renderscript/migrate [lien-ket]
 <br/>
 Tại sao tôi lại sử dụng vì sau khi áp dụng vào với Seekbar, thì mỗi lần onProgressChanged tôi lại 
 apply xử lý Blur ảnh Bitmap, kết quả rất hài lòng là Seekbar không hề bị giật :))
 <br/>
 Cảm ơn bạn đã đọc
+
+[lien-ket]: https://developer.android.com/guide/topics/renderscript/migrate
