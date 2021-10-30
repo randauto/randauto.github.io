@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Trí nhớ và nguyên tắc cơ bản"
+date:   2021-10-31
+categories: Memory
+---
+Chắc hẳn nhiều người cũng sẽ giống mình, đôi khi hay quên một thứ rất vặt vảnh như kiểu
+chiếc chìa khóa xe máy, chiếc ví hay cái điện thoại. Đôi khi rõ ràng là mình vừa để nó ở đây mà, sao giờ lại không thấy nhỉ?? Lúc đấy mình lại biện minh, chắc già rồi, trí nhớ kém rồi hoặc đại loại là mình hay quên! @@ Thấy mình như thế sẽ ảnh hưởng rất nhiều sau này, nên tôi đã quyết định tìm mua sách về luyện trí nhớ ( thực ra không phải là tôi mua mà là vợ tôi :d, tôi chỉ lấy ké để đọc thôi). Sau khi đọc được vài phần trong quyển sách và có trải qua mấy bài tập, thấy có vẻ như trí nhớ khá hơn hẳn ( hay là do mình ngộ nhận vì mình đang enjoy trong cái khoảnh khắc này? :d). Nói vậy lại sai đi nguyên tắc cơ bản của trí nhớ cũng như lời nói của tác giả về những điều biện hộ cho trí nhớ của mỗi người, theo tác giả thì không phải trí nhớ của mình kém mà là DO CHÍNH MÌNH TỰ SUY ra mà thôi! Có thật thế không? Tôi nghĩ là trừ những trường hợp con người bị bệnh kém trí nhớ thật như là Anzemer gì gì đó, thì còn lại được giải thích là do bản thân mình chưa chú tâm để nhớ mà thôi. Nó đại loại như kiểu bạn đang làm việc trên máy tính với phần mềm soạn thảo chẳng hạn, cơ chế là nó sẽ lưu tạm file vào đâu đó để tránh trường hợp mất điện, sụt nguồn hay lỗi gì gì đó mà tài liệu không cánh mà bay, nếu bạn thực sự muốn lưu thì bạn sẽ bấm phím Ctrl + S để lưu lại, lúc đó khỏi mất luôn. Và thường thì khi chúng ta không nhớ được cái gì đó như dãy số, số điện thoại, số tài khoản ngân hàng hay số nhà, ngõ xóm phố,...thì lại ăn ngay cái quy chụp là mình có trí nhớ kém ---> Dẫn tới sai lầm trong việc định nghĩa trí nhớ của bản thân. Theo tác giả chẳng qua đó là do bạn chưa có khả năng nhớ được những con số mà thôi, đơn giản là vậy. Vậy thì hẳn là sẽ có những lúc bạn nhớ dai như đỉa về một hành động hay hình ảnh nào đó từ hồi bé tí bé tí cởi chuồng, như cái mà gọi là thời thơ ấu ý, và các bạn có thể kể vanh vách từng chi tiết? Tại sao lại vậy, bởi lẽ nó rất thú vị, có hình ảnh trực quan và nó gây ấn tượng mạnh với bạn. Trí nhớ sẽ nhớ rất dai những sự kiện, hình ảnh mà theo tính thú vị hoặc gây sốc, lạc lối không như bình thường. Những cái gì bình thường thì thường sẽ không được trí nhớ chú ý tới!!! Hay chưa ^^! Vậy nên ta cần duy trì trí nhớ của bản thân với những lĩnh vực mà ta cảm thấy quan tâm, tự tin và thay đổi quan điểm với các lĩnh vực khác mà trí nhớ kém phát huy.
+
+<br/>
+Cảm ơn bạn đã đọc
+
+Sách tham khảo: Bí mật của một trí nhớ siêu phàm
