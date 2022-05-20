@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "8 Tố Chất Trí Tuệ Quyết Định Cuộc Đời Người Đàn Ông"
+title:  "Bắt Đầu Đạt Được Tất Cả Các Mục Tiêu Của Bạn - Cách Lập Kế Hoạch Để Thành Công Theo Mọi Cách"
 date:   2022-05-20
 categories: Success
 ---
-Bắt Đầu Đạt Được Tất Cả Các Mục Tiêu Của Bạn - Cách Lập Kế Hoạch Để Thành Công Theo Mọi Cách
 Bạn đã bao giờ nghe câu “thành công đến với những người làm việc” chưa? 
 
 Điều này rất có thể đúng. Nhưng có một thành phần khác cực kỳ quan trọng để thành công: lập kế hoạch. 
