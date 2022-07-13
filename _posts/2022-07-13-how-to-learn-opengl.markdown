@@ -4,7 +4,6 @@ title:  "How to learn OpenGL"
 date:   2022-07-13
 categories: Learning
 ---
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
