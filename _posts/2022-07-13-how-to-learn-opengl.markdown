@@ -4,7 +4,16 @@ title:  "How to learn OpenGL"
 date:   2022-07-13
 categories: Learning
 ---
-<p><strong>I'm learning OpenGL currently and I feel like I don't know anything. I don't see myself finishing anything in the future. What are your experiences as a beginner while learning OpenGL?</strong>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>How to learn OpenGL</title>
+</head>
+
+<body>
+	<p>Copyright from Quora</p>
+	<p><strong>I'm learning OpenGL currently and I feel like I don't know anything. I don't see myself finishing anything in the future. What are your experiences as a beginner while learning OpenGL?</strong>
 </p>
 	<p>Sadly for you, I began with “IrisGL” - which was the (very simple) precursor of OpenGL.
 	  
@@ -30,3 +39,5 @@ categories: Learning
 	<p>Then you can gradually build on that knowledge until you have everything you need to write whatever it is you were thinking of writing.
 	  
 	  You don’t need to know all of it to be useful. </p>
+</body>
+</html>
