@@ -4,7 +4,7 @@ title:  "5 tips to learning English well"
 date:   2022-07-05
 categories: Learning
 ---
-<p>The sooner you start, The sooner you finish!<br>
+	<h2>The sooner you start, The sooner you finish!</h2><br>
   1. Don't give a damn. Speak whatever and wherever. Just speak!<br>
   2. Take any book and read outloud.<br>
   3. Learn new words everyday.<br>
