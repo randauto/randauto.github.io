@@ -28,9 +28,12 @@ twitter_username: Tuan98764170
 github_username:  randauto
 
 # Build settings
-theme: minima
+theme: jekyll-remote-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: vfvong/jekyll-theme-tao
 
 # Exclude from processing.
 # The following items will not be processed, by default.
