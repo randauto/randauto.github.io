@@ -9,32 +9,33 @@ categories: Learning
 <h2>Cài đặt Miniconda cho việc học Python, AI</h2>
 Tải Miniconda tại website: 
 <a href = "https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a>
-Tùy vào hệ điều hành máy tính bạn đang dùng mà tải bản cho phù hợp, ở đây tôi sử dụng
-hệ điều hành Window 10 nên tôi sẽ tải bản Python 3.9, Miniconda3 Windows 64-bit
-Việc cài đặt rất dễ dàng, các bạn chỉ việc Next trong các thao tác.
-Sau khi cài đặt xong, chúng ta sẽ tiến hành các bước cài đặt thêm cho môi trường.
-Mở Miniconda3 terminal lên, cài đặt các package sau:
-opencv
-Đầu tiên các bạn tạo 1 folder trong ổ cứng. VD: D:\sample_project
-Sau đó terminal trong miniconda3 tới thư mục đó
+<p>Tùy vào hệ điều hành máy tính bạn đang dùng mà tải bản cho phù hợp, ở đây tôi sử dụng
+hệ điều hành Window 10 nên tôi sẽ tải bản Python 3.9, Miniconda3 Windows 64-bit</p>
+<p>Việc cài đặt rất dễ dàng, các bạn chỉ việc Next trong các thao tác.</p>
+<p>Sau khi cài đặt xong, chúng ta sẽ tiến hành các bước cài đặt thêm cho môi trường.</p>
+<p>Mở Miniconda3 terminal lên, cài đặt các package sau:</p>
+<b>opencv</b>
+<p>Đầu tiên các bạn tạo 1 folder trong ổ cứng. VD: D:\sample_project</p>
+<p>Sau đó terminal trong miniconda3 tới thư mục đó</p>
 
-cd D:\sample_project
-mkdir env
-conda --prefix ./env pandas numpy matplotlip scikit-learn jupyter
-hoặc muốn cài package nào thì xài câu lệnh
-conda install opencv
+<code>
+<b>cd D:\sample_project</b>
+<b>mkdir env</b>
+<b>conda --prefix ./env pandas numpy matplotlip scikit-learn jupyter</b>
+</code>
+<p>hoặc muốn cài package nào thì xài câu lệnh</p>
+<p><b>conda install opencv</p>
 
-Sau đó active lên:
-conda activate D:\sample_project\env
+<p>Sau đó active lên:</p>
+<p><b>conda activate D:\sample_project\env</b></p>
 
-bật Jupyter Note book lên 
-jupyter notebook
+<p>bật Jupyter Note book lên </p>
+<p><b>jupyter notebook</b></p>
 
+<p>Để thoát: ấn Ctrl + C </p>
 
-Để thoát: ấn Ctrl + C 
-
-Để deactive: 
-conda deactive
+<p>Để deactive: </p>
+<p><b>conda deactive</b></p>
 
 
 </body>
