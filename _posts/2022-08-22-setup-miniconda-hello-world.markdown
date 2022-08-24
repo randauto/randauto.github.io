@@ -19,17 +19,17 @@ hệ điều hành Window 10 nên tôi sẽ tải bản Python 3.9, Miniconda3 W
 <p>Sau đó terminal trong miniconda3 tới thư mục đó</p>
 
 <code>
-<b>cd D:\sample_project</b>
-<b>mkdir env</b>
-<b>conda --prefix ./env pandas numpy matplotlip scikit-learn jupyter</b>
+<p><b>cd D:\sample_project</b></p>
+<p><b>mkdir env</b></p>
+<p><b>conda --prefix ./env pandas numpy matplotlip scikit-learn jupyter</b></p>
 </code>
 <p>hoặc muốn cài package nào thì xài câu lệnh</p>
-<p><b>conda install opencv</p>
+<p><b>conda install opencv</b></p>
 
 <p>Sau đó active lên:</p>
 <p><b>conda activate D:\sample_project\env</b></p>
 
-<p>bật Jupyter Note book lên </p>
+<p>bật Jupyter Note book lên</p>
 <p><b>jupyter notebook</b></p>
 
 <p>Để thoát: ấn Ctrl + C </p>
