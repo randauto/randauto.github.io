@@ -12,7 +12,7 @@ categories: Learning
 <p>Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.</p>
 
-<p>- Original Website -</p>
+<p>- Official website -</p>
 <p><a href = "https://pandas.pydata.org/">https://pandas.pydata.org/</a></p>
 
 <p>- Website for learning -</p>
