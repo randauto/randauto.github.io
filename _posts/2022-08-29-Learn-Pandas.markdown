@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Learn Pandas"
+title:  "Learn Pandas Guide"
 date:   2022-08-29
 categories: Learning
 ---
 <html>
 <body>
-<p>Pandas tutorial Learning By Examples and Exercises</p>
+<p>Pandas tutorial Learning By Examples and Exercises Resources</p>
 
 <p>- Summary -</p>
 <p>Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
