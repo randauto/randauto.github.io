@@ -8,22 +8,16 @@ categories: SongDep
 <body>
 <p>Tam bảo là gì và ứng dụng trong cuộc sống.</p>
 
-TAM BẢO
-
-1. Tam bảo gồm thầy hiền trí, tủ sách tinh hoa và nhóm bạn tốt.<br/>
-
-2. Tam bảo là yếu tố ngoại cảnh tích cực giúp chúng ta phát triển nội lực.<br/>
-Giống như ta là một đứa bé vài tháng tuổi, tam bảo là cha mẹ, là các công cụ giúp chúng ta "bám vào nương tựa" để có thể học đi.<br/>
-
-3. Tam bảo là tấm lá chắn bảo vệ chúng ta khỏi những thứ xấu ác, tam bảo sẽ giúp cho ta biết đâu là đúng, đâu là sai và từ đó ta hiểu việc gì là nên làm.<br/>
-
-4. Tam bảo là nơi nương tựa khi ta yếu đuối.<br/>
-Giống như cha mẹ, khi ta gặp khó khăn, trầm cảm, áp lực, tìm đến tam bảo là ta sẽ có một chỗ dựa vững chắc để vượt qua sóng gió cuộc đời.<br/>
-
-5. Đừng quá dựa dẫm vào tam bảo.<br/>
-Ai rồi cũng phải tự đốt đuốc lên mà đi, tam bảo chỉ là điều kiện ngoại cảnh để ta có chỗ dựa trong thời gian đầu, nhưng đừng nên bị dính mắc vào tam bảo, ta phải hướng tới sự phát triển nội lực của bản thân để có thể tự mình bước đi trên thế gian này.
-
-
+<p> <strong> TAM BẢO</strong></p>
+<p>&nbsp;1. Tam bảo gồm thầy hiền trí, tủ sách tinh hoa và nhóm bạn tốt.<br>
+      &nbsp;2. Tam bảo là yếu tố ngoại cảnh tích cực giúp chúng ta phát triển nội lực.<br>
+      Giống như ta là một đứa bé vài tháng tuổi, tam bảo là cha mẹ, là các công cụ giúp chúng ta "bám vào nương tựa" để có thể học đi.<br>
+      &nbsp;3. Tam bảo là tấm lá chắn bảo vệ chúng ta khỏi những thứ xấu ác, tam bảo sẽ giúp cho ta biết đâu là đúng, đâu là sai và từ đó ta hiểu việc gì là nên làm.<br>
+      &nbsp;4. Tam bảo là nơi nương tựa khi ta yếu đuối.<br>
+      Giống như cha mẹ, khi ta gặp khó khăn, trầm cảm, áp lực, tìm đến tam bảo là ta sẽ có một chỗ dựa vững chắc để vượt qua sóng gió cuộc đời.<br>
+      &nbsp;5. Đừng quá dựa dẫm vào tam bảo.</p>
+    <p><br>
+Ai rồi cũng phải tự đốt đuốc lên mà đi, tam bảo chỉ là điều kiện ngoại cảnh để ta có chỗ dựa trong thời gian đầu, nhưng đừng nên bị dính mắc vào tam bảo, ta phải hướng tới sự phát triển nội lực của bản thân để có thể tự mình bước đi trên thế gian này. </p>
 </body>
 </html>
 
