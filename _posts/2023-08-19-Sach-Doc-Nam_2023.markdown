@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "Sách Hay Nên Đọc"
+date:   2023-08-19
+categories: DocSach
+---
+<html>
+<body>
+<p><strong>Sách đọc trong năm 2023</strong></p>
+<table width="200" border="1">
+  <tbody>
+    <tr>
+      <td>&nbsp;1</td>
+      <td>&nbsp;Cách sống</td>
+      <td>Inamori Kazuo&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;2</td>
+      <td>&nbsp;Thế giới quả là rộng lớn</td>
+      <td>&nbsp;Kim Woo Choong</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>&nbsp;Không bao giờ là thất bại</td>
+      <td>&nbsp;" Chung Ju Yung"</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Rèn nghị lực để lập thân</td>
+      <td>&nbsp;Nguyễn Hiến Lê</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Tay Trắng Làm Nên</td>
+      <td>&nbsp;Nguyễn Hiến Lê</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Gương Danh Nhân và những bài học</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Ý chí sắt đá</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Gương kiên nhẫn - Những bài học thành công</td>
+      <td>&nbsp;Nguyễn Hiến Lê</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Làm chủ nghịch cảnh</td>
+      <td>&nbsp;Bobby Bones</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;5 nhân tố vàng cho người thành đạt</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Vô cùng tàn nhẫn vô cùng yêu thương tập 3</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Bộ ba xuất chúng Nhật Bản</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Tĩnh Lặng - Thích Nhất Hạnh</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Con đường lập thân</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Nghệ Thuật Nói Chuyện Của Jackma</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Mã Vân Giày Vải</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Tôi Là Jackma</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Steve Jobs</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;Tay không gây dựng cơ đồ</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;21 Nguyên tắc tự do tài chính</td>
+      <td>&nbsp;</td>
+    </tr>
+	      <tr>
+      <td>&nbsp;</td>
+      <td>Tiền đẻ ra Tiền</td>
+      <td>&nbsp;Duncan Bannatyne</td>
+    </tr>
+	  	      <tr>
+      <td>&nbsp;</td>
+      <td>Tư duy về tiền bạc</td>
+      <td>Jonathan Clements</td>
+    </tr>
+	  	      <tr>
+      <td>&nbsp;</td>
+      <td>Kế hoạch quản lý tài chính cá nhân</td>
+      <td>Vicki Robin Joe Domiguez</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
+
