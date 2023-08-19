@@ -25,102 +25,102 @@ categories: DocSach
       <td>&nbsp;" Chung Ju Yung"</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;4</td>
       <td>&nbsp;Rèn nghị lực để lập thân</td>
       <td>&nbsp;Nguyễn Hiến Lê</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;5</td>
       <td>&nbsp;Tay Trắng Làm Nên</td>
       <td>&nbsp;Nguyễn Hiến Lê</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;6</td>
       <td>&nbsp;Gương Danh Nhân và những bài học</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;7</td>
       <td>&nbsp;Ý chí sắt đá</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>8</td>
       <td>&nbsp;Gương kiên nhẫn - Những bài học thành công</td>
       <td>&nbsp;Nguyễn Hiến Lê</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>9&nbsp;</td>
       <td>&nbsp;Làm chủ nghịch cảnh</td>
       <td>&nbsp;Bobby Bones</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;10</td>
       <td>&nbsp;5 nhân tố vàng cho người thành đạt</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;11</td>
       <td>&nbsp;Vô cùng tàn nhẫn vô cùng yêu thương tập 3</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;12</td>
       <td>&nbsp;Bộ ba xuất chúng Nhật Bản</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;13</td>
       <td>&nbsp;Tĩnh Lặng - Thích Nhất Hạnh</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;14</td>
       <td>&nbsp;Con đường lập thân</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;15</td>
       <td>&nbsp;Nghệ Thuật Nói Chuyện Của Jackma</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;16</td>
       <td>&nbsp;Mã Vân Giày Vải</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;17</td>
       <td>&nbsp;Tôi Là Jackma</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;18</td>
       <td>&nbsp;Steve Jobs</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;19</td>
       <td>&nbsp;Tay không gây dựng cơ đồ</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;20</td>
       <td>&nbsp;21 Nguyên tắc tự do tài chính</td>
       <td>&nbsp;</td>
     </tr>
 	      <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;21</td>
       <td>Tiền đẻ ra Tiền</td>
       <td>&nbsp;Duncan Bannatyne</td>
     </tr>
 	  	      <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;22</td>
       <td>Tư duy về tiền bạc</td>
       <td>Jonathan Clements</td>
     </tr>
 	  	      <tr>
-      <td>&nbsp;</td>
+      <td>&nbsp;23</td>
       <td>Kế hoạch quản lý tài chính cá nhân</td>
       <td>Vicki Robin Joe Domiguez</td>
     </tr>
